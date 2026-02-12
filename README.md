@@ -45,5 +45,4 @@ JWT_SECRET=secret123
 
 .Customer role for cart orders
 
-
-Users with too many canceled orders may be blocked temporarily
+.Users with too many canceled orders may be blocked temporarily
