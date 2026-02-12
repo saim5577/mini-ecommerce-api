@@ -2,13 +2,13 @@
 
 ## 1. Setup Instructions
 
-1. Clone the repository:
+Clone the repository:
    git clone https://github.com/saim5577/mini-ecommerce-api.git
    
-2.go to the project folder
+2. go to the project folder
   cd mini-ecommerce-api
 
-3.create a .env in the root folder
+3. create a .env in the root folder
   type
 PORT=5000
 MONGO_URI=mongodb://127.0.0.1:27017/mini_ecommerce
